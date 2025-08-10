@@ -52,6 +52,6 @@ else:
                 for x, y in user_profile.items():
                     print(f"{x} : {y}")
             else:
-                print("Invalid username and password")
+                print("Invalid username and password.")
     else:
         print("Invalid!")
