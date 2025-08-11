@@ -1,23 +1,23 @@
 {
     "user": [
         {
-            "username": "asmita singh",
-            "password": "abc@1",
+            "username": "asmita",
+            "password": "$2b$12$amKiAhMpWXxFpiEpSiDJH.wEXDHa/xhXCHIA6jqA5.GVlUk1TAqVq",
             "profile": {
-                "description": "Hi i am Asmita! a simple and kind person",
-                "dob": "05/05/2005",
-                "hobbies": "traveling, watching movies, singing",
-                "gender": "female"
+                "description": "hi i am asmita sigh",
+                "dob": "18/04/2005",
+                "hobbies": "treaviling movies singing",
+                "gender": "femal"
             }
         },
         {
-            "username": "asmita singh",
-            "password": "abc@1",
+            "username": "asmita",
+            "password": "$2b$12$amKiAhMpWXxFpiEpSiDJH.wEXDHa/xhXCHIA6jqA5.GVlUk1TAqVq",
             "profile": {
-                "description": "Hi i am Asmita! a simple and kind person",
-                "dob": "05/05/2005",
-                "hobbies": "traveling, watching movies, singing",
-                "gender": "female"
+                "description": "hi i am asmita sigh",
+                "dob": "18/04/2005",
+                "hobbies": "treaviling movies singing",
+                "gender": "femal"
             }
         }
     ]
